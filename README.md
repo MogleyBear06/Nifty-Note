@@ -1,9 +1,9 @@
-# Easy Peasy README Generator
+# Nifty Note
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  This app allows users to create a professional README.md file simply by answering a few questions. It also allows users to include links to their portfolio, email address as well as license.
+  Nifty Note is a note taking app for those busy business owners on the go!
   
   ## Table of Contents
   - [Installation](#installation)
@@ -17,19 +17,16 @@
   This project is licensed under the MIT license. For more information, please visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
 
   ## Installation
-  Clone this repo into your machine, install inquirer via npm i inquirer command, run program via node index.js command, and  answer questions. 
-  
-  App Demo
-  https://drive.google.com/file/d/1MzyTprGJU3_m6LsCi0XaR-FcLRQwxnpB/view
+  Visit the apps web address!
   
   ## Usage
-  This app is used by developers to easily create a README.md file on the fly!
+  Use the app for note taking purposes.
   
   ## Contributing
-  Be kind and respectful :)
+  Be kind, be respectful.
   
   ## Tests
-  To test this app, input various data to verify outputs match that of the inputs.
+  Visit the apps web address and use.
 
   ## Questions
   If there are any qustions regarding this application please feel free to contact me at
