@@ -5,6 +5,9 @@
   ## Description
   Nifty Note is a note taking app for those busy business owners on the go!
   
+  ![Screenshot 2023-05-10 at 5 03 40 PM](https://github.com/MogleyBear06/Nifty-Note/assets/44917761/d14011e4-8116-47e9-bcb7-cc85db413976)
+
+  
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
