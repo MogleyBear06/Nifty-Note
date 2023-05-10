@@ -19,6 +19,8 @@
   ## Installation
   Visit the apps web address!
   
+  Link https://nifteynotebynick.herokuapp.com/
+  
   ## Usage
   Use the app for note taking purposes.
   
